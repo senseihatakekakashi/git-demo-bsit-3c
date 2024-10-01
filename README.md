@@ -1,5 +1,5 @@
 # Project Description
-This project is to demonstrate how to use **git** and **github* to *BSIT 3C* Students of Dominican College of Tarlac
+This project is to demonstrate how to use **git** and **github** to *BSIT 3C* Students of Dominican College of Tarlac
 
 # Directory Structure
 assets
